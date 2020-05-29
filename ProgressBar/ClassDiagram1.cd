@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProgressBar.AbstractBar" Collapsed="true">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar.AnimatedBar">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimatedBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar.BlocksBar">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAACAAAAAAAAAAAAAAEAAAAAAAAAAIAAgAAAAAAA=</HashCode>
+      <FileName>BlocksBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar.SwayBar">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="ProgressBar.SwayBar.direction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SwayBar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIACAAAAAACAAAAACEAAAABAAAAAAEAAAAIAAAAQAA=</HashCode>
+      <FileName>SwayBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>
